@@ -2,7 +2,7 @@
 
 **A Streamlit-based medicinal chemistry platform for compound library analysis, MPO scoring, scaffold clustering, and AI-driven synthesis recommendations.**
 
-Built for the HCIE drug discovery project. No coding required — upload your CSV, configure parameters through the UI, and get publication-quality results in minutes.
+Built for the drug discovery project. Upload your CSV, configure parameters through the UI, and get publication-quality results in minutes.
 
 ---
 
@@ -72,7 +72,6 @@ Opens at **http://localhost:8501**
 chemselect-pro/
 ├── chemselect_app.py          # Main Streamlit app (single file)
 ├── requirements.txt           # Python dependencies
-├── how_to_run_and_install.txt # Quick install reference
 ├── sample_data/
 │   └── sample_library.csv     # 20 demo compounds (kinase-like scaffolds)
 ├── docs/
