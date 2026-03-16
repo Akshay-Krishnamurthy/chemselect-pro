@@ -1,4 +1,4 @@
-# ⚗️ ChemSelect Pro v2
+# ⚗️ ChemSelect Pro
 
 **A Streamlit-based medicinal chemistry platform for compound library analysis, MPO scoring, scaffold clustering, and AI-driven synthesis recommendations.**
 
